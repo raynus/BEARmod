@@ -8,9 +8,9 @@ library(lubridate)
 #setwd('C:/Users/sl4m18/OneDrive - University of Southampton/Wuhan Coronavirus R0/Spread risk')
 
 
-source("bearmod/BEARmod_development/bearmod_fx_dev.R")
+source("bearmod_fx.R")
 # source("bearmod/bearmod_fx.R")
-source("bearmod/BEARmod_development/preprocess_data_2015_dev.R")
+source("preprocess_data_2015.R")
 #Initial parameters
 NPat = length(patNames)
 patnInf = rep(0,NPat)
