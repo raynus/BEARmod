@@ -1,5 +1,5 @@
-# Update (My works)  
-- Able to run the run_model_small.R successfully and store model output in results.RData  
+# Update (My works in addition to original BEARmod)  
+- With minox fixes, I'm able to run the run_model_small.R successfully and store model output in results.RData  
 - Unable to rune the preprocess_data_2015.R as several data sources in preprocess_data_2015.R were missing  
 
 
